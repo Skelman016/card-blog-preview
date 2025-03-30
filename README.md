@@ -34,7 +34,8 @@ qr-code-project/
    │── css/
    │   └── styles.css    # Stylesheet
    └── images/
-       └── image-qr-code.png  # QR Code image
+       └── illustration-article.svg
+       └── image-avatar.webp  #Images for project
 ```
 
 ## Installation & Setup
