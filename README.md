@@ -4,7 +4,7 @@
 
 
 # 🔗 Live Demo
-[Demo](https://skelman016.github.io/blog-page-preview/) 
+[Demo](https://skelman016.github.io/card-blog-preview/) 
 
 ## Description
 
@@ -41,7 +41,7 @@ qr-code-project/
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/Skelman016/blog-page-preview.git
+   git clone https://github.com/Skelman016/card-blog-preview.git
    ```
 2. **Open the `index.html` file in your browser**  
 3. *(Optional)* If using a live server, start it with:  
